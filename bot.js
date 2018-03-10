@@ -1978,7 +1978,7 @@ client.on("message", message => {
 
             }
 });
-client.login("NDIxMDU1ODE0MTEyMTE2NzQ2.DYHqwQ.7DBIGpowH_DLAyQz09YVrXWdrO8");
+client.login("NDIyMTMyMTUyOTIzMTkzMzQ1.DYXVaA.i4l_qIq_UjMNt4odPa8J9L5VNWg");
 
 
 
